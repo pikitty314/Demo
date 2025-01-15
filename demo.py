@@ -1,4 +1,4 @@
 def main():
-    print("Hello "  + input("What is your name? "))
+    print("Goodbye "  + input("What is your name? "))
 
 main()
